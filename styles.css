@@ -6,7 +6,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.animal-photos{
+#animal-photos{
 border-radius: 10px;
 display: flex;
 justify-content: center;
@@ -19,11 +19,11 @@ color: white;
 gap:20px;
 text-align: center;
 }
-.animal-photos >img{
+#animal-photos >img{
 border-radius: 20px;
 }
 
-.photo-heading{
+#photo-heading{
     width: 100%;
     text-transform:uppercase;
 }
